@@ -1,16 +1,7 @@
-# flutter_custom_fonts_example
+FLutter'da özel yazı tipi kullanım örneği
 
-A new Flutter project.
+Flutter custom fonts example
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2023-11-30 003038](https://github.com/dousoftware/flutter_custom_fonts_example/assets/60797535/effc124a-3300-45df-82b8-9a15213206c6)
+![Ekran görüntüsü 2023-11-30 003135](https://github.com/dousoftware/flutter_custom_fonts_example/assets/60797535/cd5e050d-c551-409f-9b86-a2ba6b92b375)
